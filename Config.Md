@@ -1,8 +1,8 @@
 {
-  "Version": "1.2",
+  "Version": "1.3",
   "ReleaseNotes": "♻️ VPN Life FREE!!!! Update Available, for a better connection always stay up to date JOIN OUR TELEGRAM GROUP https://t.me/VPN_Life_2023♻️\n \n
 👑 VPN Life 2023 👑\n•••••••••••••••••••••••••••••••••••••••••••••\n
-    🆚 Version: 1.2\n
+    🆚 Version: 1.3\n
 •••••••••••••••••••••••••••••••••••••••••••••\n
 🔰 Working🔰\n
 🔰🔴𝐃𝐈𝐀𝐋𝐎𝐆  ONLINE  \n
@@ -87,12 +87,12 @@
       "Name": "Singapore [Mobitel working❤️]",
       "TYPE": "PREMIUM",
       "FLAG": "SG.png",
-      "ServerIP": "68.183.180.18",
+      "ServerIP": "159.65.9.29",
       "CheckUser": "",
-      "ServerPort": "80",
+      "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "izph1",
-      "PASS": "izph1"
+      "USER": "itsme54",
+      "PASS": "itsme54"
         },
       {
       "Name": "Singapore [Mobitel working❤️]",
