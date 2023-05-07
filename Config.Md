@@ -1,5 +1,5 @@
 {
-  "Version": "1.4",
+  "Version": "1.5",
   "ReleaseNotes": "♻️ VPN Life FREE!!!! Update Available, for a better connection always stay up to date JOIN OUR TELEGRAM GROUP https://t.me/VPN_Life_2023♻️\n \n
 👑 VPN Life 2023 👑\n•••••••••••••••••••••••••••••••••••••••••••••\n
     🆚 Version: 1.5\n
@@ -53,13 +53,13 @@
        {
       "Name": "Cʟᴏᴜᴅꜰʀᴏɴᴛ Sᴇʀᴠᴇʀ 02",
       "TYPE": "PREMIUM",
-      "FLAG": "CL.png",
-      "ServerIP": "[rotate=d2tlxrws2iuicb.cloudfront.net]",
+      "FLAG": "US.png",
+      "ServerIP": "[rotate=ddwc5pcivcwi0.cloudfront.net]",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "garyy",
-      "PASS": "apazatktktktk"
+      "USER": "colombia675",
+      "PASS": "haisjdhdhdisj"
         },  
        {
       "Name": "Cʟᴏᴜᴅꜰʀᴏɴᴛ Sᴇʀᴠᴇʀ 03",
