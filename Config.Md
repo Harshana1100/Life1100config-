@@ -1,8 +1,8 @@
 {
-  "Version": "1.5",
+  "Version": "1.6",
   "ReleaseNotes": "♻️ VPN Life FREE!!!! Update Available, for a better connection always stay up to date JOIN OUR TELEGRAM GROUP https://t.me/VPN_Life_2023♻️\n \n
 👑 VPN Life 2023 👑\n•••••••••••••••••••••••••••••••••••••••••••••\n
-    🆚 Version: 1.5\n
+    🆚 Version: 1.6\n
 •••••••••••••••••••••••••••••••••••••••••••••\n
 🔰 Working🔰\n
 🔰🔴𝐃𝐈𝐀𝐋𝐎𝐆  ONLINE  \n
@@ -42,13 +42,13 @@
        {
       "Name": "Cʟᴏᴜᴅꜰʀᴏɴᴛ Sᴇʀᴠᴇʀ 01",
       "TYPE": "PREMIUM",
-      "FLAG": "US.png",
-      "ServerIP": "[rotate=d1xwwo964ry6lc.cloudfront.net]",
+      "FLAG": "SG.png",
+      "ServerIP": "[rotate=d2u9o7ro1puur0.cloudfront.net]",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "zafar671",
-      "PASS": "40221"
+      "USER": "lasiya",
+      "PASS": "lasiya"
         },  
        {
       "Name": "Cʟᴏᴜᴅꜰʀᴏɴᴛ Sᴇʀᴠᴇʀ 02",
@@ -69,8 +69,8 @@
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "PANDAX",
-      "PASS": "PANDAX"
+      "USER": "MUNDIAL",
+      "PASS": "MUNDIAL"
         },  
        {
       "Name": "𝙉𝙤𝙧𝙢𝙖𝙡 𝙎𝙚𝙧𝙫𝙚𝙧𝙨",
