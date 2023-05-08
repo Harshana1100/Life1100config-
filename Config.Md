@@ -29,7 +29,7 @@
   ],
   "Servers": [		       
        {
-      "Name": "𝘿𝙞𝙖𝙡𝙤𝙜 𝙯𝙚𝙧𝙤 𝙤𝙣𝙡𝙮",
+      "Name": "𝙋𝙍𝙀𝙈𝙄𝙐𝙈 𝙎𝙀𝙍𝙑𝙀𝙍𝙎",
       "TYPE": "",
       "FLAG": "",
       "ServerIP": "[rotate=]",
@@ -40,7 +40,7 @@
       "PASS": ""
         },
        {
-      "Name": "Cʟᴏᴜᴅꜰʀᴏɴᴛ Sᴇʀᴠᴇʀ 01",
+      "Name": "Sᴇʀᴠᴇʀ 01",
       "TYPE": "PREMIUM",
       "FLAG": "SG1.png",
       "ServerIP": "[rotate=d2u9o7ro1puur0.cloudfront.net]",
@@ -51,7 +51,7 @@
       "PASS": "lasiya"
         },  
        {
-      "Name": "Cʟᴏᴜᴅꜰʀᴏɴᴛ Sᴇʀᴠᴇʀ 02",
+      "Name": "Sᴇʀᴠᴇʀ 02",
       "TYPE": "PREMIUM",
       "FLAG": "US1.png",
       "ServerIP": "[rotate=d14nthey4wsk1y.cloudfront.net]",
@@ -62,7 +62,7 @@
       "PASS": "ahsjdkdtha"
         },  
        {
-      "Name": "Cʟᴏᴜᴅꜰʀᴏɴᴛ Sᴇʀᴠᴇʀ 03",
+      "Name": "Sᴇʀᴠᴇʀ 03",
       "TYPE": "PREMIUM",
       "FLAG": "US1.png",
       "ServerIP": "[rotate=dwfuumq0oq5sd.cloudfront.net]",
@@ -73,7 +73,7 @@
       "PASS": "MUNDIAL"
         },  
        {
-      "Name": "𝙉𝙤𝙧𝙢𝙖𝙡 𝙎𝙚𝙧𝙫𝙚𝙧𝙨",
+      "Name": "𝙉𝙤𝙧𝙢𝙖𝙡 𝙎𝙀𝙍𝙑𝙀𝙍𝙎",
       "TYPE": "",
       "FLAG": "",
       "ServerIP": "[rotate=]",
