@@ -18,7 +18,7 @@
   "UrlSpeed": "https://www.speedtest.net/",
   "UrlTermos": "https://t.me/VPN_Life_2023",
   "UrlApn": "https://t.me/VPN_Life_2023/442",
-  "UrlAppUpdate": "https://t.me/VPN_Life_2023/638",
+  "UrlAppUpdate": "https://t.me/VPN_Life_2023/708?single",
   "UrlLocation": "http://ip-api.com/json",
   "UrlRouter": "https://t.me/VPN_Life_2023/552",
   "CheckUser": "true",
