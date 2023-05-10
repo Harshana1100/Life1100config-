@@ -1,5 +1,5 @@
 {
-  "Version": "1.2",
+  "Version": "1.3",
   "ReleaseNotes": "♻️ VPN Life FREE!!!! Update Available, for a better connection always stay up to date JOIN OUR TELEGRAM GROUP https://t.me/VPN_Life_2023♻️\n \n
 👑 VPN Life 2023 👑\n•••••••••••••••••••••••••••••••••••••••••••••\n
     🆚 Version: 1.2\n
@@ -39,39 +39,7 @@
       "USER": "",
       "PASS": ""
         },
-       {
-      "Name": "Sᴇʀᴠᴇʀ 01",
-      "TYPE": "PREMIUM",
-      "FLAG": "SG1.png",
-      "ServerIP": "[rotate=d2u9o7ro1puur0.cloudfront.net]",
-      "CheckUser": "",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "lasiya",
-      "PASS": "lasiya"
-        },  
-       {
-      "Name": "Sᴇʀᴠᴇʀ 02",
-      "TYPE": "PREMIUM",
-      "FLAG": "US1.png",
-      "ServerIP": "[rotate=d3hr3umkpn8o38.cloudfront.net]",
-      "CheckUser": "",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "paraguay687",
-      "PASS": "ahsjdkdtha"
-        },  
-       {
-      "Name": "Sᴇʀᴠᴇʀ 03",
-      "TYPE": "PREMIUM",
-      "FLAG": "US1.png",
-      "ServerIP": "[rotate=dppyzlz2497up.cloudfront.net]",
-      "CheckUser": "",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "NetfreeMX",
-      "PASS": "NetfreeMX"
-        },  
+  
        {
       "Name": "==========𝙉𝙊𝙍𝙈𝘼𝙇 𝙎𝙀𝙍𝙑𝙀𝙍𝙎==========",
       "TYPE": "",
