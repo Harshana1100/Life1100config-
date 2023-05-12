@@ -237,7 +237,8 @@
       "TlsIP": "",
       "ProxyIP": "",
       "ProxyPort": "80",
-      "Info": "Ssl"
+      "Info": "Ssl",
+      "Info1": "Airtel zero"
        },
 	   {
       "Name": "Airtel Social Media",
