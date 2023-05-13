@@ -1,8 +1,8 @@
 {
-  "Version": "1.1",
+  "Version": "1.2",
   "ReleaseNotes": "♻️ VPN Life FREE!!!! Update Available, for a better connection always stay up to date JOIN OUR TELEGRAM GROUP https://t.me/VPN_Life_2023♻️\n \n
 👑 VPN Life 2023 👑\n•••••••••••••••••••••••••••••••••••••••••••••\n
-    🆚 Version: 1.1\n
+    🆚 Version: 1.2\n
 •••••••••••••••••••••••••••••••••••••••••••••\n
 🔰 Working🔰\n
 🔰🔴𝐃𝐈𝐀𝐋𝐎𝐆  ONLINE  \n
@@ -21,6 +21,7 @@
   "UrlAppUpdate": "https://t.me/VPN_Life_2023/708?single",
   "UrlLocation": "http://ip-api.com/json",
   "UrlRouter": "https://t.me/VPN_Life_2023/552",
+  "Notification": "https://t.me/VPN_Life_2023/727",
   "CheckUser": "true",
   "Udp": [
     {
@@ -48,7 +49,7 @@
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "PANDAX_CO16",
-      "PASS": "NEXPLUS"
+      "PASS": "mYXg1OU0DhgBbiSUXoLBeg=="
         },  
        {
       "Name": "Sᴇʀᴠᴇʀ 02",
