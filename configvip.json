@@ -49,7 +49,7 @@
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "PANDAX_CO16",
-      "PASS": "mYXg1OU0DhgBbiSUXoLBeg=="
+      "PASS": "@iPANDA"
         },  
        {
       "Name": "Sᴇʀᴠᴇʀ 02",
@@ -65,7 +65,7 @@
        {
       "Name": "Sᴇʀᴠᴇʀ 03 VIP",
       "TYPE": "PREMIUM",
-      "FLAG": "US1.png",
+      "FLAG": "SG1.png",
       "ServerIP": "[rotate=d3eig9k9jqbqkh.cloudfront.net]",
       "CheckUser": "",
       "ServerPort": "22",
