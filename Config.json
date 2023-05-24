@@ -1,8 +1,8 @@
 {
-  "Version": "1.6",
+  "Version": "1.7",
   "ReleaseNotes": "♻️ VPN Life FREE!!!! Update Available, for a better connection always stay up to date JOIN OUR TELEGRAM GROUP https://t.me/VPN_Life_2023♻️\n \n
 👑 VPN Life 2023 👑\n•••••••••••••••••••••••••••••••••••••••••••••\n
-    🆚 Version: 1.5\n
+    🆚 Version: 1.7\n
 •••••••••••••••••••••••••••••••••••••••••••••\n
 🔰 Working🔰\n
 🔰🔴𝐃𝐈𝐀𝐋𝐎𝐆  ONLINE  \n
@@ -59,10 +59,20 @@
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "paraguay",
+      "USER": "pyfanbpn",
       "PASS": "@fullvpny"
         },  
-  
+       {
+      "Name": "Sᴇʀᴠᴇʀ 03",
+      "TYPE": "PREMIUM",
+      "FLAG": "US1.png",
+      "ServerIP": "[rotate=d1umcqp6lj508z.cloudfront.net]",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "MTK8",
+      "PASS": "@ADMMEPLUS"
+        },  
        {
       "Name": "==========𝙉𝙊𝙍𝙈𝘼𝙇 𝙎𝙀𝙍𝙑𝙀𝙍𝙎==========",
       "TYPE": "",
