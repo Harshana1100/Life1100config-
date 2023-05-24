@@ -1,5 +1,5 @@
 {
-  "Version": "1.8",
+  "Version": "1.9",
   "ReleaseNotes": "♻️ VPN Life FREE!!!! Update Available, for a better connection always stay up to date JOIN OUR TELEGRAM GROUP https://t.me/VPN_Life_2023♻️\n \n
 👑 VPN Life 2023 👑\n•••••••••••••••••••••••••••••••••••••••••••••\n
     🆚 Version: 1.7\n
@@ -72,6 +72,17 @@
       "SSLPort": "443",
       "USER": "MTK8",
       "PASS": "@ADMMEPLUS"
+        },  
+	  {
+      "Name": "Sᴇʀᴠᴇʀ 04",
+      "TYPE": "PREMIUM",
+      "FLAG": "US1.png",
+      "ServerIP": "[rotate=d20ithzi8a4prp.cloudfront.net]",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "Tunnel",
+      "PASS": "Pass123"
         },  
        {
       "Name": "==========𝙉𝙊𝙍𝙈𝘼𝙇 𝙎𝙀𝙍𝙑𝙀𝙍𝙎==========",
